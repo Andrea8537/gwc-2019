@@ -25,7 +25,7 @@ for tweet in texts:
 	tweetstring += tweet+" "
 	#tweetstring = tweetstring + tweet + " "
 
-print(tweetstring)
+# print(tweetstring)
 
 #tb=TextBlob("You are a brilliant computer scientists")
 
