@@ -32,3 +32,10 @@
 //
 // console.log(getTemp2("f"))
 // console.log(getTemp2("c"))
+
+document.getElementById("special font").addEventListener("click"),
+  function (){
+    document.getElementById("special font").style.color="red"
+    console.log("Geto")
+    }
+  }
